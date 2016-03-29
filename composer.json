@@ -1,0 +1,12 @@
+{
+	"name": "ttg/cakephp-database-log",
+	"type": "cakephp-plugin",
+	"description": "Database logging adapter for CakePHP",
+	"keywords": ["log", "logging", "database"],
+	"homepage": "https://github.com/torchlight-technology/cakephp-database-log",
+	"autoload": {
+		"psr-4": {
+			"ttg\\DatabaseLog\\": "src"
+		}
+	},
+}
